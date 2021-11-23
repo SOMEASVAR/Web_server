@@ -47,5 +47,5 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![GitHub Logo](/web.png)
+![GitHub Logo](/images/web.png.png)
 ## RESULT:
